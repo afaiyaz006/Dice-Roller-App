@@ -39,11 +39,11 @@ class MainActivity : ComponentActivity() {
     }
 }
 
-@Preview
-@Composable
-fun DiceRollerApp() {
-
-}
+//@Preview
+//@Composable
+//fun DiceRollerApp() {
+//
+//}
 
 @Composable
 fun DiceWithButtonAndImage(modifier:Modifier = Modifier.fillMaxSize().wrapContentSize(Alignment.Center)) {
